@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vinex Sureliya
 
-🚀 **Flutter & Web Developer**
-📍 Ahmedabad, India
+🚀 **Flutter Developer**
+📍 Gujarat, India
 💡 Passionate about building smooth mobile apps & clean UI experiences
 
 ---
