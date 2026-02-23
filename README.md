@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vinex Sureliya
 
-<!--
-**VinexSureliya/vinexsureliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter & Web Developer**
+📍 Ahmedabad, India
+💡 Passionate about building smooth mobile apps & clean UI experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a Flutter developer with **1.6+ years of experience** building cross-platform mobile apps.
+
+* 📱 Built real-world apps like **KhataPlus (Live on Play Store)**
+* 🔥 Currently working on **Learning App + Admin Panel**
+* ⚡ Focused on performance, UI/UX, and clean architecture
+* 💼 Open for **freelance & full-time opportunities**
+
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase (Auth, Firestore, FCM, Storage)
+* REST APIs
+* Git & GitHub
+
+---
+
+## 📱 Projects
+
+### 🛒 KhataPlus — Shop Management
+
+* Inventory, customer ledger, expenses
+* Firebase real-time backend
+  👉 https://play.google.com/store/apps/details?id=com.ShopPulse.app
+
+---
+
+### 📚 Learning App *(Coming Soon)*
+
+* Course system, videos, progress tracking
+
+---
+
+### 🖥 Admin Panel *(Flutter Web)*
+
+* Manage users, content, analytics
+
+---
+
+## 🌐 Portfolio
+
+👉 **Live Website:**
+https://your-portfolio-link.web.app
+
+---
+
+## 📫 Contact Me
+
+* 📧 [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 Open to work
+
+---
+
+⭐️ *If you like my work, feel free to star my repositories!*
