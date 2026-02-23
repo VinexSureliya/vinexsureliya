@@ -33,7 +33,8 @@ I’m a Flutter developer with **1.6+ years of experience** building cross-platf
 
 * Inventory, customer ledger, expenses
 * Firebase real-time backend
-  👉 https://play.google.com/store/apps/details?id=com.ShopPulse.app
+
+👉 https://play.google.com/store/apps/details?id=com.ShopPulse.app
 
 ---
 
