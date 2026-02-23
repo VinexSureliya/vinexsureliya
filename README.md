@@ -58,7 +58,7 @@ https://your-portfolio-link.web.app
 
 ## 📫 Contact Me
 
-* 📧 [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📧 [vinexsureliya9@gmail.com](mailto:vinexsureliya9@gmail.com)
 * 💼 Open to work
 
 ---
