@@ -27,16 +27,6 @@ I’m a Flutter developer with **1.6+ years of experience** building cross-platf
 
 ---
 
-## 📱 Projects
-
-### 🛒 KhataPlus — Shop Management
-
-* Inventory, customer ledger, expenses
-* Firebase real-time backend
-
-👉 https://play.google.com/store/apps/details?id=com.ShopPulse.app
-
----
 
 ## 📫 Contact Me
 
