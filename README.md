@@ -38,25 +38,6 @@ I’m a Flutter developer with **1.6+ years of experience** building cross-platf
 
 ---
 
-### 📚 Learning App *(Coming Soon)*
-
-* Course system, videos, progress tracking
-
----
-
-### 🖥 Admin Panel *(Flutter Web)*
-
-* Manage users, content, analytics
-
----
-
-## 🌐 Portfolio
-
-👉 **Live Website:**
-[Vinex Sureliya personal website](https://my-porfolio-82d5f.web.app/)
-
----
-
 ## 📫 Contact Me
 
 * 📧 [vinexsureliya9@gmail.com](mailto:vinexsureliya9@gmail.com)
