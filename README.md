@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Flutter developer with **1.6+ years of experience** building cross-platform mobile apps.
+I’m a Flutter developer with **1.7+ years of experience** building cross-platform mobile apps.
 
 * 📱 Built real-world apps like **KhataPlus (Live on Play Store)**
 * ⚡ Focused on performance, UI/UX, and clean architecture
