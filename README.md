@@ -40,15 +40,6 @@ I'm a Flutter developer with **1.8+ years of experience** building cross-platfor
 ### 📒 [Bill Ledger](https://play.google.com/store/apps/details?id=com.ShopPulse.app) — *Shopkeeper Billing & Ledger App*
 > Flutter + Firebase app for shopkeepers to manage billing, udhar/credit tracking, PDF export & analytics. **Live on Play Store.**
 
-### ✈️ Skyline Global Airways — *Airline Management System*
-> Full-stack system with Flutter (mobile) + Laravel 12 (backend/admin panel) + Firebase Hosting. Features role-based access control and 20+ modules.
-
-### 🛒 Luxe Shop — *E-commerce App*
-> Clean, performant Flutter e-commerce app with smooth UI/UX and Firebase backend.
-
-### 🎓 EduFlow — *Education Platform*
-> Flutter-based education app with course management and in-app content delivery.
-
 ---
 
 ## 💼 Career Summary
