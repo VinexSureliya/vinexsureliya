@@ -8,7 +8,6 @@
   <a href="mailto:vinexsureliya9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vinexsureliya.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.ShopPulse.app"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=VinexSureliya&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
