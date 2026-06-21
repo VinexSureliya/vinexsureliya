@@ -27,9 +27,9 @@ I'm a Flutter developer with **1.8+ years of experience** building cross-platfor
 | Category | Technologies |
 |---|---|
 | **Languages** | Dart, PHP |
-| **Frameworks** | Flutter, Laravel |
+| **Frameworks** | Flutter|
 | **State Management** | BLoC, GetX |
-| **Backend / DB** | Firebase (Auth, Firestore, FCM, Storage), REST APIs, MySQL |
+| **Backend / DB** | Firebase (Auth, Firestore, FCM, Storage), REST APIs|
 | **Tools** | Git, GitHub, Android Studio, VS Code |
 | **Architecture** | Clean Architecture, MVC |
 
