@@ -41,7 +41,7 @@ I'm a Flutter developer with **1.8+ years of experience** building cross-platfor
 - 🖥️ Adaptive UI across mobile, web & desktop
 - 🔗 [Linktree](https://linktr.ee/BillLLedger)
 
-### ⛽ FuelLog — *Vehicle Fuel Tracking & Management App*
+### ⛽ Fuely — *Vehicle Fuel Tracking & Management App*
 > A premium, dark-themed Flutter app for tracking fuel logs, mileage, and vehicle maintenance — built for Indian users (Petrol/Diesel/CNG).
 - 🚗 Multi-vehicle garage with fuel logs, service history & reminders
 - 📈 Analytics dashboard with AI-powered insights & mileage trends
